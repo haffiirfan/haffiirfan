@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Haffi Irfan 👋</h1>
+<h1 align="center">Hi, I'm Haffi Irfan </h1>
 
 <h3 align="center">Artificial Intelligence Engineer · Multimodal AI & Full-Stack ML Systems</h3>
 
