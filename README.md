@@ -1,20 +1,23 @@
 <h1 align="center">Hi, I'm Haffi Irfan </h1>
 
-<h3 align="center">Artificial Intelligence Engineer · Multimodal AI & Full-Stack ML Systems</h3>
+<h3 align="center">Artificial Intelligence Engineer</h3>
 
 <p align="center">
-I engineer end-to-end AI systems — from GPU-efficient multi-model pipelines to production-grade computer vision & NLP platforms. Manuscript currently under peer review at a <b>Springer Nature</b> journal on memory-orchestrated multimodal synthesis.
+I build AI systems, from multi-model pipelines that run on limited GPU hardware to computer vision and NLP platforms used in real deployments. My manuscript on multimodal synthesis is currently under peer review at a Springer Nature journal.
 </p>
 
 ---
 
 ### 📄 Research
-**OrchestraGen** — *A Unified Memory-Orchestrated Multi-Model Pipeline for Text-to-Avatar Synthesis*
-Under review, *Multimedia Systems* (Springer Nature) · GPU-efficient multimodal generation pipeline focused on system-level engineering for low-level computational efficiency.
+**OrchestraGen: A Unified Memory-Orchestrated Multi-Model Pipeline for Text-to-Avatar Synthesis**
+Currently under review at *Multimedia Systems* (Springer Nature). The paper covers a text-to-avatar generation pipeline designed to run efficiently on limited GPU memory.
 
-### 🚀 Highlighted Work
-- **NeuroAnimate** — Architected a 5-model heterogeneous inference pipeline (Mistral 7B + SDXL + LivePortrait + Real-ESRGAN) on dual T4 GPUs, fitting 60.1GB of weights into 32GB via dynamic memory orchestration; reduced animation latency 33.1% via dual-GPU parallel inference.
-- **SafetyIQ** — Full-stack CV + NLP safety monitoring system: fine-tuned YOLO11s (mAP@0.5 0.82+) on a 44K-image PPE dataset, RAG pipeline (ChromaDB + T5) for grounded incident reports, sub-20ms WebSocket inference via FastAPI + React + PostgreSQL.
+### 🚀 Projects
+**NeuroAnimate**
+Built a 5-model pipeline (Mistral 7B, SDXL, LivePortrait, Real-ESRGAN) that runs on dual T4 GPUs. Fit 60.1GB of model weights into 32GB of memory by loading and unloading models dynamically instead of keeping everything resident. Cut animation processing time by 33.1% by splitting video frames across both GPUs at once.
+
+**SafetyIQ**
+A full-stack safety monitoring system combining computer vision and NLP. Fine-tuned YOLO11s to 0.82+ mAP on a 44,000-image PPE dataset, built a RAG pipeline with ChromaDB and T5 for incident reports, and streamed detection results over WebSocket in under 20ms per frame, using FastAPI, React, and PostgreSQL underneath.
 
 ---
 
@@ -48,9 +51,9 @@ Under review, *Multimedia Systems* (Springer Nature) · GPU-efficient multimodal
 ---
 
 ### 🎓 Training & Certifications
-- 🧠 AI/ML Trainee — NAVTTC (Corvit Networks), July 2025
-- ☁️ Microsoft Azure: AI Fundamentals, May 2025
-- 🧩 NeetCode Blind 75 — Jan 2026
+- AI/ML Trainee, NAVTTC (Corvit Networks), July 2025
+- Microsoft Azure: AI Fundamentals, May 2025
+- NeetCode Blind 75, Jan 2026
 
 ---
 
@@ -72,7 +75,7 @@ Under review, *Multimedia Systems* (Springer Nature) · GPU-efficient multimodal
   <a href="https://haffiirfan.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
-### 🎯 Focus
-- 🔬 Multimodal generative AI & memory-efficient model orchestration
-- 🛡️ Production CV/NLP systems with real-time inference
-- 📚 Publishing research at the systems-engineering / deep-learning intersection
+### 🎯 What I'm focused on
+- Multimodal generative AI and getting large models to run on small GPUs
+- Production computer vision and NLP systems
+- Publishing research alongside the engineering work
