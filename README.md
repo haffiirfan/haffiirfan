@@ -17,7 +17,7 @@ Currently under review at *Multimedia Systems* (Springer Nature). The paper cove
 Built a 5-model pipeline (Mistral 7B, SDXL, LivePortrait, Real-ESRGAN) that runs on dual T4 GPUs. Fit 60.1GB of model weights into 32GB of memory by loading and unloading models dynamically instead of keeping everything resident. Cut animation processing time by 33.1% by splitting video frames across both GPUs at once.
 
 **SafetyIQ**
-A full-stack safety monitoring system combining computer vision and NLP. Fine-tuned YOLO11s to 0.82+ mAP on a 44,000-image PPE dataset, built a RAG pipeline with ChromaDB and T5 for incident reports, and streamed detection results over WebSocket in under 20ms per frame, using FastAPI, React, and PostgreSQL underneath.
+A full-stack safety monitoring system combining computer vision and NLP. Fine-tuned YOLO11s to 0.75+ mAP on a 44,000-image PPE dataset, built a RAG pipeline with ChromaDB and T5 for incident reports, and streamed detection results over WebSocket in under 20ms per frame, using FastAPI, React, and PostgreSQL underneath.
 
 ---
 
@@ -54,17 +54,6 @@ A full-stack safety monitoring system combining computer vision and NLP. Fine-tu
 - AI/ML Trainee, NAVTTC (Corvit Networks), July 2025
 - Microsoft Azure: AI Fundamentals, May 2025
 - NeetCode Blind 75, Jan 2026
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=haffiirfan&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haffiirfan&theme=radical" height="165"/>
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haffiirfan&layout=compact&theme=radical" height="165"/>
-</p>
 
 ---
 
