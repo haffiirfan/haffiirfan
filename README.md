@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-Software engineer working at the intersection of generative AI and systems engineering. I build multi-model pipelines that actually run on hardware people can afford, and ship computer vision systems into production. First-author manuscript currently under peer review at a Springer Nature journal.
+Software Engineer working at the intersection of generative AI and systems engineering. I build multi-model pipelines that actually run on hardware people can afford, and ship computer vision systems into production. First-author manuscript currently under peer review at a Springer Nature journal.
 </p>
 
 ---
