@@ -12,7 +12,7 @@ Software engineer working at the intersection of generative AI and systems engin
 
 ---
 
-### 📄 Research
+###  Research
 
 **OrchestraGen: A Unified Memory-Orchestrated Multi-Model Pipeline for Text-to-Avatar Synthesis**
 *Under peer review — Multimedia Systems (Springer Nature MMSJ)*
@@ -29,7 +29,7 @@ The paper introduces Dynamic Memory Orchestration (DMO), a scheduling strategy t
 
 ---
 
-### 🚀 Projects
+###  Projects
 
 <table>
 <tr>
@@ -56,7 +56,7 @@ Real-time construction site monitoring with object detection and natural languag
 
 ---
 
-### 🎓 Education
+###  Education
 
 **BSc Software Engineering** — Minhaj University Lahore (2022–2026)
 
@@ -64,7 +64,7 @@ Scored 4.0/4.0 in Artificial Intelligence, Data Structures & Algorithms, Object 
 
 ---
 
-### 🛠️ What I work with
+###  What I work with
 
 **ML / CV / NLP**
 
@@ -98,14 +98,14 @@ Scored 4.0/4.0 in Artificial Intelligence, Data Structures & Algorithms, Object 
 
 ---
 
-### 📜 Certifications
+###  Certifications
 - **AI/ML Training Program** — NAVTTC (Corvit Networks), July 2025
 - **Microsoft Azure AI Fundamentals (AI-900)** — May 2025
 - **NeetCode Blind 75** — Completed Jan 2026
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haffiirfan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
@@ -116,6 +116,6 @@ Scored 4.0/4.0 in Artificial Intelligence, Data Structures & Algorithms, Object 
 
 ### What I'm working towards
 
-I want to do a PhD in computer vision, specifically around efficient multi-model inference and generative AI on constrained hardware. The OrchestraGen work showed me that the real bottleneck in multimodal AI isn't model accuracy anymore; it's getting multiple large models to coexist on the same machine without everything falling apart. That's the problem I want to keep working on.
+I want to be specialized in computer vision, specifically around efficient multi-model inference and generative AI on constrained hardware. The OrchestraGen work showed me that the real bottleneck in multimodal AI isn't model accuracy anymore; it's getting multiple large models to coexist on the same machine without everything falling apart. That's the problem I want to keep working on.
 
 In parallel, I'm looking for AI/ML engineering roles where I can build production systems while continuing to publish.
