@@ -99,9 +99,9 @@ Scored 4.0/4.0 in Artificial Intelligence, Data Structures & Algorithms, Object 
 ---
 
 ###  Certifications
-- **AI/ML Training Program** — NAVTTC (Corvit Networks), July 2025
-- **Microsoft Azure AI Fundamentals (AI-900)** — May 2025
-- **NeetCode Blind 75** — Completed Jan 2026
+- **AI/ML Training Program** | NAVTTC (Corvit Networks), July 2025
+- **Microsoft Azure AI Fundamentals (AI-900)** | May 2025
+- **NeetCode Blind 75** | Completed Jan 2026
 
 ---
 
