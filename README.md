@@ -15,7 +15,7 @@ Software Engineer working at the intersection of generative AI and systems engin
 ###  Research
 
 **OrchestraGen: A Unified Memory-Orchestrated Multi-Model Pipeline for Text-to-Avatar Synthesis**
-*Under peer review — Multimedia Systems (Springer Nature MMSJ)*
+*Under peer review | Multimedia Systems (Springer Nature MMSJ)*
 
 The paper introduces Dynamic Memory Orchestration (DMO), a scheduling strategy that fits 60.1 GB of heterogeneous model weights into 32 GB of dual-T4 VRAM without quantization or pruning. The pipeline chains six models (Mistral-7B → SDXL Base+Refiner → LivePortrait → Real-ESRGAN) to turn text prompts into animated portrait videos. Key results from the paper:
 
