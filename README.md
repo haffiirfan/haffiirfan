@@ -60,7 +60,7 @@ Real-time construction site monitoring with object detection and natural languag
 
 **BSc Software Engineering** | Minhaj University Lahore (2022–2026)
 
-Scored 4.0/4.0 in Artificial Intelligence, Data Structures & Algorithms, Object Oriented Programming, and Calculus. Final year project (NeuroAnimate) led directly to the Springer submission.
+Key Coursework: Artificial Intelligence, Machine Learning, Data Science Technologies 
 
 ---
 
